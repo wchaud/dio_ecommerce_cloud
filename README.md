@@ -3,11 +3,11 @@ Laboratório para implantação de uma aplicação no Azure, utilizando o Azure 
 
 Foi realizado o desenvolvimento de uma aplicação na linguagem Python, utilizando o framework Streamlit, gerando facilmente um formulário para envio de dados.
 
-Os dados enviados por este formulário tiveram como destino um servidor SQL Server no Azure para armazenar os registros em uma tabela chamada produtos, utilizando na aplicação a biblioteca pymssql para conexão com a Azure.
+Os dados são enviados por este formulário com destino a um servidor SQL Server no Azure. Os registros são inseridos em uma tabela chamada produtos, utilizando a biblioteca pymssql para conexão com  Azure SQL Server.
 
-Também por meio do framework Streamlit é realizado um upload de uma imagem cujo destino é o armazenamento de Blob do Azure, utilizando a biblioteca python de cliente Azure Storage Blob.
+Através do framework Streamlit é realizado upload de imagens as quais são armazenadas no Blob da Azure, a biblioteca python Azure Storage Blob é utlizada como cliente para conectar ao serviço de armazenamento do Azure.
 
-Formulário:
+Formulário gerado pelo stremlit:
 
 ![Captura de tela 2025-05-09 184754](https://github.com/user-attachments/assets/4e703903-71a3-4c27-ac4c-41505ce541ef)
 
