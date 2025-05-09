@@ -5,7 +5,7 @@ Foi realizado o desenvolvimento de uma aplicação na linguagem Python, utilizan
 
 Os dados são enviados por este formulário com destino a um servidor SQL Server no Azure. Os registros são inseridos em uma tabela chamada produtos, utilizando a biblioteca pymssql para conexão com  Azure SQL Server.
 
-Através do framework Streamlit é realizado upload de imagens as quais são armazenadas no Blob da Azure, a biblioteca python Azure Storage Blob é utlizada como cliente para se conectar ao serviço de armazenamento do Azure.
+Através do framework Streamlit é realizado upload de imagens que são armazenadas no Blob da Azure, a biblioteca python Azure Storage Blob é utlizada como cliente para se conectar ao serviço de armazenamento do Azure.
 
 Formulário gerado pelo stremlit:
 
