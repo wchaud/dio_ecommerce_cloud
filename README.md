@@ -7,7 +7,7 @@ Os dados são enviados por este formulário com destino a um servidor SQL Server
 
 Através do framework Streamlit é realizado upload de imagens que são armazenadas no Blob da Azure, a biblioteca python Azure Storage Blob é utlizada como cliente para se conectar ao serviço de armazenamento do Azure.
 
-Formulário gerado pelo stremlit:
+Formulário gerado pelo Streamlit:
 
 ![Captura de tela 2025-05-09 184754](https://github.com/user-attachments/assets/4e703903-71a3-4c27-ac4c-41505ce541ef)
 
