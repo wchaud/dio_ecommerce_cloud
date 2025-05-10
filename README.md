@@ -11,4 +11,6 @@ Formulário gerado pelo Streamlit:
 
 ![Captura de tela 2025-05-09 184754](https://github.com/user-attachments/assets/4e703903-71a3-4c27-ac4c-41505ce541ef)
 
+Fontes do laboratório, fornecidos pela DIO GLOBAL (Github: https://github.com/digitalinnovationone/Microsoft_Application_Platform)
+
 
