@@ -1,5 +1,5 @@
 # dio_ecommerce_cloud
-Laboratório para implantação de uma aplicação no Azure, utilizando o Azure SQL Server e o armazenamento de Blobs do Azure.
+Laboratório para demonstração de recursos do Azure, utilizando o Azure SQL Server e o armazenamento de Blobs do Azure.
 
 Foi realizado o desenvolvimento de uma aplicação na linguagem Python, utilizando o framework Streamlit, gerando facilmente um formulário para envio de dados.
 
